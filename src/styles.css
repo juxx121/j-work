@@ -24,7 +24,36 @@ body {
   line-height: 75px;
 }
 
+#menu a :hover {
+  text-decoretion: underline
+}
+
 header {
   background-color: antiquewhite;
   height: 75px;
+  margin: 30px 0;
 }
+article {
+  width: 220px;
+  float: left;
+  margin-right: 40px
+}
+
+.ultimo {
+  margin-right: 0;
+}
+
+
+
+footer {
+  clear: both;
+  text-align: center:
+  font-size: 15px;
+  color: #666;
+  margin-bottom: 20px;
+}
+h2,
+article a {
+  color: #610007
+}
+
