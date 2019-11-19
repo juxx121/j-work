@@ -1,3 +1,30 @@
 body {
+  margin: 0;
   font-family: sans-serif;
+}
+
+#app {
+  width: 1000px;
+  height: auto;
+  margin: 0 auto;
+}
+
+#logo {
+  float: left;
+}
+
+#menu {
+  float: right;
+}
+
+#menu a {
+  text-decoration: none;
+  color: #670001;
+  margin-left: 50px;
+  line-height: 75px;
+}
+
+header {
+  background-color: antiquewhite;
+  height: 75px;
 }
